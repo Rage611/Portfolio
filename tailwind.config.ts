@@ -15,6 +15,10 @@ const config: Config = {
         purple: "#a855f7",
         pink: "#ec4899",
       },
+      fontFamily: {
+        inter: ["var(--font-inter)", "sans-serif"],
+        "space-grotesk": ["var(--font-space-grotesk)", "sans-serif"],
+      },
     },
   },
   plugins: [],
